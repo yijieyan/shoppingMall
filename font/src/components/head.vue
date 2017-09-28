@@ -85,7 +85,7 @@
       }
     },
     mounted() {
-      this.getCartCount();
+      this.username ? this.getCartCount() : '';
     },
     computed: {
       getUserInfo() {

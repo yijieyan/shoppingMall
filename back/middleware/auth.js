@@ -55,6 +55,9 @@ module.exports = async function(ctx, next){
         let cookie = security.cipher(`${new Date().getTime()}:${userId}`);
         return cookie;
     };
+     if(ctx.path == '/favicon.ico') {
+        return ;
+    }
 
     if(ctx.path.startsWith('/public') || ctx.path == '/good/productList') {
         console.log(ctx.path);
