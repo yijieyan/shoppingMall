@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="box">
     <navHeader></navHeader>
     <bread name="order"></bread>
     <div class="container">
@@ -89,5 +89,7 @@
 </script>
 
 <style scoped>
-
+.box {
+  text-align: left;
+}
 </style>

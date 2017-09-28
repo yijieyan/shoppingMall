@@ -13,14 +13,14 @@
           </div>
           <div class="footer__secondary__nav">
             <span>Copyright © 2017 IMooc All Rights Reserved.</span>
-            <a href="http://us.lemall.com/us/aboutUs.html">
-              About Us
+            <a href="https://nodejs.org/en/">
+              nodejs
             </a>
-            <a href="http://us.lemall.com/us/termsofUse.html">
-              Terms &amp; Conditions
+            <a href="https://cn.vuejs.org/">
+              vue
             </a>
-            <a href="http://us.lemall.com/us/privacyPolicy.html">
-              Privacy Policy
+            <a href="http://www.imooc.com/">
+              慕课网
             </a>
           </div>
         </div>
