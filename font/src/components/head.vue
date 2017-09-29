@@ -14,7 +14,7 @@
     <div class="navbar">
       <div class="navbar-left-container">
         <a href="/">
-          <img class="navbar-brand-logo" src="../assets/images/logo.png"></a>
+          <img class="navbar-brand-logo" src="../assets/images/logo.png" style="width:200px;height:80px;"></a>
       </div>
       <div class="navbar-right-container">
         <div class="navbar-menu-container">
@@ -216,6 +216,7 @@
     color: #f5f7fc;
    /* opacity: 0.7;*/
     line-height: 20px;
+    text-align:center;
   }
 
   .bt {
