@@ -214,7 +214,7 @@
     background: red;
     border-radius: 50%;
     color: #f5f7fc;
-    opacity: 0.7;
+   /* opacity: 0.7;*/
     line-height: 20px;
   }
 
